@@ -1,5 +1,5 @@
 item_name = "Eggs"              # string needs quotes
-item_price = 3.99               # this was fine
+item_price= 3.99               # this was fine
 item_stock_quantity = 120       # this was fine
 in_stock = True                 # capitalize boolean
 
